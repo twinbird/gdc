@@ -8,6 +8,7 @@ Download and deploy any directory.
 And you must setting environment variables below.
 
 | Name | desc |
+|------|-------|
 | GDC_ID | GitHub account id |
 | GDC_ACCESS_TOKEN | GitHub API Access Token |
 
